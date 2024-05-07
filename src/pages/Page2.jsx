@@ -35,9 +35,9 @@ const hero = [
 const Page2 = () => {
   return (
     <div className="px-24 mt-16 h-[700px]">
-      <div className="flex justify-between items-center">
+      <div className="flex justify-between items-center gap-6 md:gap-0">
         <p className="text-[#2a388c]">Test Preperation</p>
-        <div className="flex gap-1 items-center bg-red-500 px-10 py-2 rounded-md">
+        <div className="flex gap-1 items-center bg-red-500 md:px-10 px-4 py-1 md:py-2 rounded-md">
           <button className="text-white">View All</button>
           <FaArrowRight className="text-white" />
         </div>

@@ -39,7 +39,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="flex flex-col md:flex-row md:flex-wrap justify-center gap-12 md:mt-12 mt-44">
+        <div className="flex flex-col md:flex-row md:flex-wrap xl:flex-nowrap xl:h-screen justify-center gap-12 md:mt-20 mt-28">
           <img
             className="w-80 h-[580px] object-cover"
             src="https://cdn.britannica.com/15/189715-050-4310222B/Dubai-United-Arab-Emirates-Burj-Khalifa-top.jpg"
