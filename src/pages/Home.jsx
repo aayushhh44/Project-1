@@ -41,25 +41,25 @@ const Home = () => {
 
         <div className="flex flex-col md:flex-row md:flex-wrap xl:flex-nowrap xl:h-screen justify-center gap-12 md:mt-20 mt-28">
           <img
-            className="w-80 h-[580px] object-cover"
+            className="w-80 h-[480px] object-cover"
             src="https://cdn.britannica.com/15/189715-050-4310222B/Dubai-United-Arab-Emirates-Burj-Khalifa-top.jpg"
             alt="Dubai"
           />
 
           <img
-            className="w-80 h-96 my-auto  object-cover"
+            className="w-80 h-96 my-24 object-cover"
             src="https://www.godsavethepoints.com/wp-content/uploads/2021/05/sydney-opera-house-354375_1280-1.jpg"
             alt="Australia"
           />
 
           <img
-            className="w-80 h-[580px]  object-cover"
+            className="w-80 h-[480px]  object-cover"
             src="https://www.shutterstock.com/image-photo/beautiful-aerial-view-downtown-vancouver-600nw-2244151975.jpg"
             alt="Canada"
           />
 
           <img
-            className="w-80 h-96 my-auto  object-cover"
+            className="w-80 h-96 my-24 object-cover"
             src="https://www.spendlifetraveling.com/wp-content/uploads/2021/11/most_beautiful_cities_in_united_states.jpg"
             alt="USA image"
           />
